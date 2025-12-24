@@ -1,0 +1,5 @@
+{
+  "name": "LingoFlash AI",
+  "description": "An intelligent English vocabulary flashcard application powered by Gemini. Learn new words with definitions, pronunciations, and examples in a clean, interactive interface.",
+  "requestFramePermissions": []
+}
